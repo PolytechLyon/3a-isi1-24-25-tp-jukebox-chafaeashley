@@ -1,8 +1,8 @@
 # Compte Rendu TP Jukebox
 
 ## Binôme
-- Nom Prénom
-- Nom Prénom
+- Ashley Padayodi 
+- Chafae Qallouj
 
 ## Choix de conception et de réalisation
 
